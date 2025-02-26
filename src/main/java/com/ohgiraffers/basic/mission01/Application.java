@@ -8,7 +8,7 @@ public class Application {
     }
 
 
-    // 함수: 홀수/짝수 판별
+    // 함수: 홀수/짝수 판별 수정수정수정
     public static boolean checkEven(int num) {
 
         return false;
